@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Vaibhav
-<p>I'm currently a software engineer at <strong><a href="https://goodglamm.com/">The Good Glamm Group</a></strong> based in 🌁 Mumbai. I am working on some side projects, looking for good movies to watch, and trying to conquer the seas as Pirate King!</p>
+<p>I'm currently a software engineer at <strong><a href="https://goodglamm.com/">The Good Glamm Group</a></strong> based in 🌁 Mumbai. Apart from handling online payment for South Asia's largest content to commerce group, I am working on some side projects, looking for good movies to watch, and trying to conquer the seas as Pirate King!</p>
 <p><a href="https://www.linkedin.com/in/vaibss/"><img src="https://img.shields.io/badge/-@vaibss-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/vaibss/" alt="LinkedIn Badge"></a> <a href="https://dev.to/the_doctor"><img src="https://img.shields.io/badge/-@the_doctor-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/the_doctor" alt="DevTo Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
