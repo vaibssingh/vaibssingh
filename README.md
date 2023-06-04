@@ -30,6 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=vaibssingh&show_icons=true&count_private=true" alt="vaibssingh" />
-<!-- <p><img src="https://visitor-badge.glitch.me/badge?page_id=vaibssingh.vaibssingh" alt="visitors"></p> -->
-[![HitCount](https://hits.dwyl.com/vaibssingh/vaibssingh.svg?style=flat-square)](http://hits.dwyl.com/vaibssingh/vaibssingh)
+<p><img src="https://img.shields.io/endpoint?color=blue&label=You%20are%20visitor%20number%3A%20&style=plastic&url=https%3A%2F%2Fhits.dwyl.com%2Fvaibssingh%2Fvaibssingh.json" alt="visitor count" /></p>
+
 
