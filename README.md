@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Vaibhav</h2>
-<p>I'm a freelance developer based in 🌁 Mumbai. I am a fullstack engineer with more than 6 years of industry experience, specialising in fintech and backend. Experienced in building secure and scalable services with various stacks and architectures. Proficient in Typescript, Node.js, React, and Python.</p> 
+<p>I'm a freelance developer based in 🌁 Mumbai. I am a fullstack engineer with more than 6 years of industry experience, specialising in fintech and backend. Experienced in building secure and scalable services with various stacks and architectures. <b>Proficient in Typescript, Node.js, React, and Python.</b></p> 
 <p>I am also certified in cybersecurity analysis from Google.</p>
 <p>I can be usually found working on some side projects, trying to hack my linux machine, looking for good movies to watch and trying to conquer the seas as Pirate King!</p>
 <p><a href="https://www.linkedin.com/in/vaibss/"><img src="https://img.shields.io/badge/-@vaibss-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/vaibss/" alt="LinkedIn Badge"></a> <a href="https://dev.to/the_doctor"><img src="https://img.shields.io/badge/-@the_doctor-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/the_doctor" alt="DevTo Badge"></a></p>
